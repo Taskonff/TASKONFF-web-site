@@ -1,5 +1,9 @@
 # TASKONFF — сайт с админ-панелью
 
+[Скачать актуальный сайт с админ-панелью — TASKONFF-CMS-final.zip](https://raw.githubusercontent.com/Taskonff/TASKONFF-web-site/refs/heads/delivery/cms-archives/TASKONFF-CMS-final.zip)
+
+## Предыдущие архивы
+
 Архивы от 6 ноября 2026 года. Ветка содержит только файлы для скачивания; она не изменяет опубликованный сайт или main.
 
 - [Скачать сайт с CMS — TASKONFF-CMS-source.zip](https://raw.githubusercontent.com/Taskonff/TASKONFF-web-site/refs/heads/delivery/cms-archives/TASKONFF-CMS-source.zip)
