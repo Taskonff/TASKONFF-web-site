@@ -1,10 +1,11 @@
 # TASKONFF — сайт с админ-панелью
 
-[Скачать актуальный сайт с админ-панелью — TASKONFF-CMS-final.zip](https://raw.githubusercontent.com/Taskonff/TASKONFF-web-site/refs/heads/delivery/cms-archives/TASKONFF-CMS-final.zip)
+- [Сайт с админ-панелью в ZIP](https://raw.githubusercontent.com/Taskonff/TASKONFF-web-site/refs/heads/delivery/cms-archives/TASKONFF-CMS-contact-settings.zip)
+- [HTML для офлайн-просмотра](https://raw.githubusercontent.com/Taskonff/TASKONFF-web-site/refs/heads/delivery/cms-archives/TASKONFF-contact-settings.html)
 
 ## Предыдущие архивы
 
-Архивы от 6 ноября 2026 года. Ветка содержит только файлы для скачивания; она не изменяет опубликованный сайт или main.
+- [Версия CMS до обновления контактов](https://raw.githubusercontent.com/Taskonff/TASKONFF-web-site/refs/heads/delivery/cms-archives/TASKONFF-CMS-final.zip)
 
 - [Скачать сайт с CMS — TASKONFF-CMS-source.zip](https://raw.githubusercontent.com/Taskonff/TASKONFF-web-site/refs/heads/delivery/cms-archives/TASKONFF-CMS-source.zip)
 - [Скачать HTML-превью — TASKONFF-CMS-HTML-preview.zip](https://raw.githubusercontent.com/Taskonff/TASKONFF-web-site/refs/heads/delivery/cms-archives/TASKONFF-CMS-HTML-preview.zip)
